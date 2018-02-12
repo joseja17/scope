@@ -87,7 +87,7 @@ function greekUnderworld(season){
 //REMOVE THE NAMES OF THE VARIABLES THAT DO NOT BELONG
 
 //This array should only contain variables accessible in global scope
-var globalScope = ["hades", "zeus", "olympians", "hera", "gatekeeper", "response", "persephone"]
+var greekGlobalScope = ["hades", "zeus", "olympians", "hera", "gatekeeper", "response", "persephone"]
 
 //This array should only contain variables accessible in scope of the 
 //function greekPantheon
